@@ -4,5 +4,6 @@
 #
 
 uint8 MAVLINK                   = 0     # MAVLink
+uint8 GPS_INJECT                = 1     # GPS Inject
 
 uint8 protocol
